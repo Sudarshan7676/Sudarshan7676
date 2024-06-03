@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <a href="https://t.me/sudarshan7676"><img src="https://telegra.ph/file/a985cb0b2ff8b79a31b9e.jpg"></a>
+  <a href="https://t.me/sudarshan7676"><img src="https://te.legra.ph/file/8a552f795414972ea1ba9.jpg"></a>
     </p>
 <p align="center">
