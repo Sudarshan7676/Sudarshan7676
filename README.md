@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudarshan7676
+- 👋 Hi, I’m sudarshan7676/
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,12 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<!---sudarshan7676/sudarshan7676 is a âœ¨ special âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---sudarshan7676/sudarshan7676 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center"> 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=â„ð•†â„ð”¸â„•&height=100&section=header"/> 
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=ℝ𝕆ℍ𝔸ℕ&height=100&section=header"/> 
  </p> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -29,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-    <b>á´˜Ê€á´Ò“ÉªÊŸá´‡ á´ ÉªsÉªá´›á´Ê€s</b><br>
+    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
      <img align="middle" src="https://profile-counter.glitch.me/sudarshan7676/count.svg" />
 </p>
 
