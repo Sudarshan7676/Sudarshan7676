@@ -10,7 +10,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center"> 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=《➷༆𝐑𝐎𝐇𝐀𝐍࿐➷》&height=100&section=header"/> 
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🇷 🇴 🇭 🇦 🇳&height=100&section=header"/> 
  </p> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
